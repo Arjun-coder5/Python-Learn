@@ -1,0 +1,5 @@
+print("Hey how are you \n i am good")
+print("Hey how are you \\ i am good")
+print("Hey how are you \t i am good")
+print("Hey how are you \" i am good",5,sep = "/")
+print("Hey how are you \' i am good")
